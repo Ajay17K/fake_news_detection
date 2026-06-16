@@ -1,0 +1,6 @@
+Delhi Mumbai 1400
+Delhi Jaipur 280
+Jaipur Ahmedabad 650
+Ahmedabad Mumbai 520
+Mumbai Pune 150
+Pune Bangalore 840
