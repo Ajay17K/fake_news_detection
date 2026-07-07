@@ -77,7 +77,7 @@ The project uses two datasets:
 
 ## How to Run
 
-1. Install the required Python libraries.
+1. Install the required Python libraries or pip install -r requirements.txt.
 2. Open the notebook in Google Colab or Jupyter Notebook.
 3. Upload `Fake.csv` and `True.csv`.
 4. Run all notebook cells.
